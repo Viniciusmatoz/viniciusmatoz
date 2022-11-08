@@ -1,8 +1,8 @@
 ## Olá, eu sou a Vinicius Matos, desenvolvedor de aplicativos android!
 <div align="center">
   <a href="https://github.com/viniciusmatoz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmatoz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmatoz&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="180em" with="550em" src="https://github-readme-stats.vercel.app/api?username=viniciusmatoz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmatoz&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="vinicius-Ad" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
