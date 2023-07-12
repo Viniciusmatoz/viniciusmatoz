@@ -19,10 +19,8 @@ Aqui estão algumas das habilidades técnicas que possuo no desenvolvimento mobi
 
 - Linguagens de Programação: Java, Kotlin.
 - Frameworks e Bibliotecas: Android SDK, Jetpack Compose.
-- Arquiteturas: Arquitetura MVVM, Clean Architecture.
 - Banco de Dados: SQLite, Room.
 - Ferramentas de Desenvolvimento: Android Studio, Git, GitHub.
-- Testes: Testes Unitários, Testes de Integração.
 
 ### Projetos
 
